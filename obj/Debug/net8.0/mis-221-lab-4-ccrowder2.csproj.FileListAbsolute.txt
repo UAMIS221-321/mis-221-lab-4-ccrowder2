@@ -1,0 +1,15 @@
+/Users/coycrowder/MIS221/Lab4/mis-221-lab-4-ccrowder2/bin/Debug/net8.0/mis-221-lab-4-ccrowder2
+/Users/coycrowder/MIS221/Lab4/mis-221-lab-4-ccrowder2/bin/Debug/net8.0/mis-221-lab-4-ccrowder2.deps.json
+/Users/coycrowder/MIS221/Lab4/mis-221-lab-4-ccrowder2/bin/Debug/net8.0/mis-221-lab-4-ccrowder2.runtimeconfig.json
+/Users/coycrowder/MIS221/Lab4/mis-221-lab-4-ccrowder2/bin/Debug/net8.0/mis-221-lab-4-ccrowder2.dll
+/Users/coycrowder/MIS221/Lab4/mis-221-lab-4-ccrowder2/bin/Debug/net8.0/mis-221-lab-4-ccrowder2.pdb
+/Users/coycrowder/MIS221/Lab4/mis-221-lab-4-ccrowder2/obj/Debug/net8.0/mis-221-lab-4-ccrowder2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/coycrowder/MIS221/Lab4/mis-221-lab-4-ccrowder2/obj/Debug/net8.0/mis-221-lab-4-ccrowder2.AssemblyInfoInputs.cache
+/Users/coycrowder/MIS221/Lab4/mis-221-lab-4-ccrowder2/obj/Debug/net8.0/mis-221-lab-4-ccrowder2.AssemblyInfo.cs
+/Users/coycrowder/MIS221/Lab4/mis-221-lab-4-ccrowder2/obj/Debug/net8.0/mis-221-lab-4-ccrowder2.csproj.CoreCompileInputs.cache
+/Users/coycrowder/MIS221/Lab4/mis-221-lab-4-ccrowder2/obj/Debug/net8.0/mis-221-lab-4-ccrowder2.sourcelink.json
+/Users/coycrowder/MIS221/Lab4/mis-221-lab-4-ccrowder2/obj/Debug/net8.0/mis-221-lab-4-ccrowder2.dll
+/Users/coycrowder/MIS221/Lab4/mis-221-lab-4-ccrowder2/obj/Debug/net8.0/refint/mis-221-lab-4-ccrowder2.dll
+/Users/coycrowder/MIS221/Lab4/mis-221-lab-4-ccrowder2/obj/Debug/net8.0/mis-221-lab-4-ccrowder2.pdb
+/Users/coycrowder/MIS221/Lab4/mis-221-lab-4-ccrowder2/obj/Debug/net8.0/mis-221-lab-4-ccrowder2.genruntimeconfig.cache
+/Users/coycrowder/MIS221/Lab4/mis-221-lab-4-ccrowder2/obj/Debug/net8.0/ref/mis-221-lab-4-ccrowder2.dll
